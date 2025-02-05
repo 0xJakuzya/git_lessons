@@ -12,7 +12,7 @@
     int main()
     {
 
-            double a, b, a1, b2, b1, a2, T1, T2; // вводим переменные
+            double a, b, a1, b2, b1, a2, T1, T2; // вводим перемененые
             cout << "a=";
             cin >> a;
             cout << "b=";
