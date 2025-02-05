@@ -29,5 +29,5 @@
 
         // выводим y
         cout << "y = " << y;
-        return 0;
+        return 0; //AAAAAAAAAAAAAAAAA
     }
